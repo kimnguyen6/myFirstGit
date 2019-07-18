@@ -6,4 +6,4 @@ function add(){
     return x+z;
 }
 
-add()
+console.log(add())
