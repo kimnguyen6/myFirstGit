@@ -6,4 +6,5 @@ function add(){
     return x+z;
 }
 
+
 console.log(add())
