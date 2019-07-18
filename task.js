@@ -1,4 +1,4 @@
-console.log("hello world");
+console.log("I CAUSED A MERGE CONFLICT");
 
 function add(){
     let x = 5;
